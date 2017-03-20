@@ -4,6 +4,12 @@ body {
   padding-bottom: 1.5rem;
 }
 
+.brand-div > i {
+  font-size: 50px;
+  margin: 3px 5px;
+  line-height: 60px;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
