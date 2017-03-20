@@ -1,0 +1,15 @@
+{
+  "name": "primeadmin",
+  "version": "0.0.2",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Davis Kimoto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
